@@ -42,3 +42,4 @@ if __name__ == '__main__':
     unittest.main()
 ```
 1. all my test cases running because of the call to `unittest.main()`.
+2. inheriting from `unittest.TestCase` for every test class
