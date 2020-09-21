@@ -41,3 +41,4 @@ class TestStringMethods(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 ```
+1 all my test cases running because of the call to `unittest.main()`.
