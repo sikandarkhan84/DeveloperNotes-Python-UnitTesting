@@ -13,3 +13,9 @@ ____
     
 5. test runner
     * A test runner is a component which orchestrates the execution of tests and provides the outcome to the user. The runner may use a graphical interface, a            textual      interface, or return a special value to indicate the results of executing the tests.
+    
+_______
+## Basic example¶
+#### The unittest module provides a rich set of tools for constructing and running tests. This section demonstrates that a small subset of the tools suffice to meet the needs of most users.
+
+Here is a short script to test three string methods:
